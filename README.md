@@ -10,7 +10,8 @@ Prerequisites:
     - A DNS resolver or DNS server to reach out to Let's Encrypt / Cloudflare (Or whoever provides the domain name)
     - A reverse proxy that can handle secure routing and hand out certificates automatically 
 
-I decided to go with Traefik [Traefik](https://traefik.io/traefik)
+I decided to go with [Traefik](https://traefik.io/traefik)
+
 I plan to migrate to Docker Swarm and use it as a single reverse proxy for all my containers across multiple nodes. 
 
 
