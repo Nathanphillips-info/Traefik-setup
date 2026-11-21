@@ -1,3 +1,5 @@
+![Traefik](Pictures/traefik-proxy.png) 
+
 # Traefik-setup
 Adding Traefik to my homelab with Let's Encrypt and DNS Challenge
 
