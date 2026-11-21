@@ -13,9 +13,6 @@ Prerequisites:
 
 I decided to go with [Traefik](https://traefik.io/traefik)
 
-I plan to migrate to Docker Swarm and use it as a single reverse proxy for all my containers across multiple nodes. 
-
-
 Step 1: Get a Domain Name  
     - You will need to purchase a domain name and set up a couple of A Records for DNS.   
     - An A record with the domain name pointing to your public IP   
